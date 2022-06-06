@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/daily-report-form_public/static/css/main.32a269e7.css",
-    "main.js": "/daily-report-form_public/static/js/main.55ac0b4e.js",
+    "main.js": "/daily-report-form_public/static/js/main.3afc1bb7.js",
     "static/js/787.6e480f7f.chunk.js": "/daily-report-form_public/static/js/787.6e480f7f.chunk.js",
     "index.html": "/daily-report-form_public/index.html",
     "main.32a269e7.css.map": "/daily-report-form_public/static/css/main.32a269e7.css.map",
-    "main.55ac0b4e.js.map": "/daily-report-form_public/static/js/main.55ac0b4e.js.map",
+    "main.3afc1bb7.js.map": "/daily-report-form_public/static/js/main.3afc1bb7.js.map",
     "787.6e480f7f.chunk.js.map": "/daily-report-form_public/static/js/787.6e480f7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32a269e7.css",
-    "static/js/main.55ac0b4e.js"
+    "static/js/main.3afc1bb7.js"
   ]
 }
